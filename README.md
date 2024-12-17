@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Aayush! A CS student at Georgia Tech
-- 👀 I’m interested in web development and ML
-- 🌱 I’m currently learning Full Stack Development, Machine Learning, and CV
-- 📫 Reach me at aseth44@gatech.edu
+- 👋 Hi, I’m Aayush! SWE at Sentry.io and Georgia Tech Alum (MS + BS in CS)
+- 👀 I’m interested in AI/ML (Language Models, Time Series Analysis, AI Agents)
+- 🌱 I’m currently working on time series analysis and improving anomaly detection systems
 
 <!---
 Aayush-S/Aayush-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
